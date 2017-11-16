@@ -12,3 +12,5 @@ another test
 >>>>>>> 87351c896c23553ce4467b88372f4682241acb2a
 
 just keep on testing
+
+testing not changing the master
